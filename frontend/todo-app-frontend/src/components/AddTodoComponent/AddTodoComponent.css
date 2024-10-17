@@ -1,0 +1,22 @@
+.addTodo-container {
+    width: 100%;
+    display: flex;
+}
+
+.inputfield {
+    width: 80%;
+    height: 64px;
+    background-color: black;
+    color: white;
+    border: none;
+    text-indent: 20px;
+    font-size: 26px;
+}
+
+button {
+    width: 20%;
+    height: 64px;
+    background-color: #3FC08A;
+    border: none;
+    cursor: pointer;
+}
